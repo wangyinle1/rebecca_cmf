@@ -223,6 +223,7 @@ $configs = [
     'cmf_theme_path'          => 'themes/',
     'cmf_default_theme'       => 'simpleboot3',
     'cmf_admin_theme_path'    => 'themes/',
-    'cmf_admin_default_theme' => 'admin_simpleboot3',
+//    'cmf_admin_default_theme' => 'admin_simpleboot3',
+    'cmf_admin_default_theme' => 'admin_rebecca',
 ];
 return array_merge($configs, $runtimeConfig);
